@@ -17,7 +17,7 @@ Programa honek Euskal Herriko 677 herrien izenen zerrenda batean zehar bilatzen 
 
 ## Usage
 
-In your OS CLI:
+Requires node and npm installed. In the command line:
 
 ```javascript
 npm install
