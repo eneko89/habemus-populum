@@ -3,9 +3,9 @@ habemus-populum
 
 A simple quick 'n dirty script that helps you solve the "Habemus populum" game in the basque "Gaztea" radio station (broadcasted in the mornings show "Dida").
 
-In the game, people calls by telephone and must guess a basque city or town name. Participants throw letters they think the town name may contain, and through the hits and faults, they eventually find out the town name.
+In the game, people calls by telephone and must guess a basque city or town name. Participants propose letters they think the town name may contain, and through hits and faults, they eventually find out the town name.
 
-The script filters a list with the 677 basque towns. Letters it contains and those it doesn't contain will be promted by the script, and must be introduced comma separated. To specify multiple occurrences, write the letter n times (e.g. it contains 3 "a" and one f would be "aaa, f").
+The script filters a list with the 677 basque towns. Letters it contains and those it doesn't contain will be promted by the script, and must be introduced comma separated. To specify multiple occurrences, write the letter n times (e.g. to state that it contains 3 "a" and one f you would write "aaa, f").
 
 ===
 
