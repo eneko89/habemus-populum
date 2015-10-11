@@ -21,7 +21,7 @@ Requires node and npm installed. In the command line:
 
 ```javascript
 npm install
-node HabemusPopulum.js
+node index.js
 
 ```
 

@@ -1,0 +1,17 @@
+{
+  "name": "habemus-populum",
+  "version": "0.1.0",
+  "description": "A simple quick 'n dirty script that helps you solve the 'Habemus populum' game in the basque 'Gaztea' radio station (broadcasted in the mornings show 'Dida').",
+  "main": "index.js",
+  "homepage": "https://github.com/eneko89/habemus-populum",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eneko89/habemus-populum.git"
+  },
+  "bugs": "https://github.com/eneko89/habemus-populum/issues",
+  "author": {
+    "name": "Eneko Sanz",
+    "url": "https://github.com/eneko89"
+  },
+  "license": "GPL-3.0"
+}
